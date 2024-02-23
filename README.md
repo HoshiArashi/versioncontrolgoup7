@@ -1,4 +1,4 @@
-##- Version Control for Group 7
+## Version Control for Group 7
 
 
 ask user to input first name 
